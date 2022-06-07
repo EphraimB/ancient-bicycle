@@ -513,6 +513,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -339.018
       objectReference: {fileID: 0}
+    - target: {fileID: 20500000, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
+      propertyPath: m_Size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 20500000, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
+      propertyPath: m_LocalReferencePoint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 20500000, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
+      propertyPath: m_LocalReferencePoint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 20500000, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
+      propertyPath: m_LocalReferencePoint.z
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
 --- !u!4 &300012574 stripped
@@ -2246,6 +2262,30 @@ PrefabInstance:
     - target: {fileID: 400002, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -339.018
+      objectReference: {fileID: 0}
+    - target: {fileID: 20500000, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
+      propertyPath: m_Size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 20500000, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
+      propertyPath: m_FadeMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 20500000, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
+      propertyPath: m_AnimateCrossFading
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 20500000, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
+      propertyPath: m_LocalReferencePoint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 20500000, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
+      propertyPath: m_LocalReferencePoint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 20500000, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
+      propertyPath: m_LocalReferencePoint.z
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 44eb32dcdfb035f4cb156673d7722d3a, type: 3}
