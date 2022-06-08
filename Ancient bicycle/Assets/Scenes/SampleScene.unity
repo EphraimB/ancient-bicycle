@@ -1459,17 +1459,32 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1620990850}
     m_Modifications:
+    - target: {fileID: 25686193105329678, guid: d3cbf9aec49012f45b66701d13b389e9,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 470260152963674027, guid: d3cbf9aec49012f45b66701d13b389e9,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 724409661659453270, guid: d3cbf9aec49012f45b66701d13b389e9,
         type: 3}
       propertyPath: m_Name
       value: Anime_Starry_Night
       objectReference: {fileID: 0}
+    - target: {fileID: 724409661659453270, guid: d3cbf9aec49012f45b66701d13b389e9,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 6015926911166169973, guid: d3cbf9aec49012f45b66701d13b389e9,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 6015926911166169973, guid: d3cbf9aec49012f45b66701d13b389e9,
         type: 3}
@@ -1494,17 +1509,17 @@ PrefabInstance:
     - target: {fileID: 6015926911166169973, guid: d3cbf9aec49012f45b66701d13b389e9,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 6015926911166169973, guid: d3cbf9aec49012f45b66701d13b389e9,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 6015926911166169973, guid: d3cbf9aec49012f45b66701d13b389e9,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 6015926911166169973, guid: d3cbf9aec49012f45b66701d13b389e9,
         type: 3}
@@ -1521,8 +1536,29 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7003104804319180427, guid: d3cbf9aec49012f45b66701d13b389e9,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8652721352059476379, guid: d3cbf9aec49012f45b66701d13b389e9,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8985539649722245758, guid: d3cbf9aec49012f45b66701d13b389e9,
+        type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d3cbf9aec49012f45b66701d13b389e9, type: 3}
+--- !u!4 &937016911 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6015926911166169973, guid: d3cbf9aec49012f45b66701d13b389e9,
+    type: 3}
+  m_PrefabInstance: {fileID: 937016910}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1028715524
 GameObject:
   m_ObjectHideFlags: 0
@@ -2402,6 +2438,7 @@ Transform:
   - {fileID: 411197318}
   - {fileID: 615031635}
   - {fileID: 221980518}
+  - {fileID: 937016911}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3043,7 +3080,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d2687c8f6e94cac4487b0e22c76bb7dd, type: 2}
+  - {fileID: 2100000, guid: ad86b93cbf835b14fb03582dff5be5b0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
