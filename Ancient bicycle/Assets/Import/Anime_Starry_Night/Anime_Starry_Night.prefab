@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7640560933971825135}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Sketchfab_model
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40,7 +40,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4083716169786087450}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -71,7 +71,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6015926911166169973}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Anime_Starry_Night
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -102,7 +102,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1839469977760044283}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: RootNode
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -133,7 +133,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7970171965406726265}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: d38186a23aa74e9db13b64855444b1bb.fbx
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -166,7 +166,7 @@ GameObject:
   - component: {fileID: 7108649284295537690}
   - component: {fileID: 4284970444151501544}
   - component: {fileID: 6428868385603643236}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Sphere_Material.001_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
