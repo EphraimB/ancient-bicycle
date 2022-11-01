@@ -1,3 +1,34 @@
 {
-    "uploadEntries": []
+    "uploadEntries": [
+        {
+            "AltspaceId": "2125614825336734321",
+            "Name": "Pillow",
+            "IsEnabled": true,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets\\Prefabs\\2125614825336734321_pillow\\pillow.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        },
+        {
+            "AltspaceId": "2125614825336734321",
+            "Name": "Pillow",
+            "IsEnabled": false,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2125614825336734321_pillow/pillow.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        }
+    ]
 }
